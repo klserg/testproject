@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("user1 feature1");
+        System.out.println("user1 feature1.2");
     }
 }
