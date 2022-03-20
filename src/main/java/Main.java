@@ -5,5 +5,8 @@ public class Main {
         System.out.println("user1 feature2");
         System.out.println("user1 feature2.1");
         System.out.println("user1 feature2.2");
+        System.out.println("user1 feature4");
+        System.out.println("user1 feature4.1");
+        System.out.println("user1 feature4.2");
     }
 }
