@@ -3,5 +3,6 @@ public class Main2 {
         System.out.println("user2 feature 3");
         System.out.println("finished");
         System.out.println("plus ammend");
+        System.out.println("user1 feature7");
     }
 }
