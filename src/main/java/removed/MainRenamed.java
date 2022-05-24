@@ -7,6 +7,6 @@ public class MainRenamed {
         System.out.println("plus ammend");
         System.out.println("user1 feature7");
         System.out.println("user2 renamed");
-        System.out.println("user1 removed");
+        System.out.println("user2 removed");
     }
 }
